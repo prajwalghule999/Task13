@@ -18,3 +18,5 @@ print("Maximum value in each row:")
 
 for i in reshaped_arr :
     print(max(i))
+
+
